@@ -1,0 +1,31 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-align: center;
+}
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(0, 0, 0);
+    background-color: aqua;
+}
+h1 {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    top: 0;
+}
+img {
+    width: 200px;
+    height: 200px;
+    text-align: center;
+}
+nav {
+    text-align: center;
+    display: flex;
+    margin: 0 auto;
+    padding: 1,2rem 2rem;
+}
+p {
+    text-align: justify;
+}
